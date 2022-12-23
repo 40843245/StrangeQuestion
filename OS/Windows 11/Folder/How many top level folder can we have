@@ -1,0 +1,31 @@
+The question is 
+How many top-level folders in Windows 11?
+(i.e. Recall that in Windows 11, files and folders can be represented as a tree.
+Starting from the C:/ disk, if we create subfolder using the following rule.
+Step 1:
+Initialize the current directory as C:/
+Step 2:
+Create a folder in the current directory.
+Step 3:
+Go to the folder you just created and set the current directory as the folder you just created.
+Step 4:
+Go to step 2
+until the OS don't allow you to create a folder.
+
+How many folders can we create?
+)
+
+The answer is suprising 128.
+(I think the answer is between 10 to 20.)
+
+The OS teacher asks the students this question in class.
+Thus, I try to solve this question by myself.
+
+But when I create 22 folders, I feel its too boring and I think I will spend lots of time to find the answer.
+Thus, I google it.
+In the website (the following link), there are some people ask the similar question and 
+someone answers 128 top-level folders.
+
+The link:
+https://answers.microsoft.com/en-us/outlook_com/forum/all/reached-the-maximum-number-of-folders/9c4126e7-e236-42f9-a3bc-5d6fc67f5ce5
+

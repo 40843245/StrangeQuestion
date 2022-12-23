@@ -1,0 +1,15 @@
+The question is
+What is the maximum char of file name can we have in Windows 11?
+
+When I try to solve the previous question, I came up with this question and I'm curious.
+Thus, I try to solve this question by myself.
+
+In my notebook, I can build 242-char long in "C:\". The directory total holds 245 chars (I use Microsoft Word to get the word count.)
+
+I've tried to create a folder in C:\.
+C:\qwertyuiopasdfghjklzxcvbnm_qwertyuiopasdfghjklzxcvbnm_qwertyuiopasdfghjklzxcvbnm_qwertyuiopasdfghjklzxcvbnm_qwertyuiopasdfghjklzxcvbnm_qwertyuiopasdfghjklzxcvbnm_qwertyuiopasdfghjklzxcvbnm_qwertyuiopasdfghjklzxcvbnm_qwertyuiopasdfghjklzxcvbnm
+
+However, when I google it, I found manyn different answers.
+It amazes me.
+The link:
+https://www.elevenforum.com/t/windows-11-long-filename-not-working-even-after-being-enabled.6162/

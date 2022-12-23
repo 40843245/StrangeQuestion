@@ -1,0 +1,16 @@
+The question is 
+What is the maximum number of lines can a source file contain in Dev_C++?
+(I use Windows 11)
+
+I've tried it and the answer is amazing
+14160001.
+When the Dev-C++ contains a source file with 14160001 lines, 
+there is a bug occurs in Dev-C++.
+Saying Out Of Memory.
+(More details on the figure in Github.)
+
+(P.S. I did NOT spend too long time to solve this question by myself.
+I just copy and paste more.
+Such as copy 1 line and paste 1 line then copy 2 lines and paste 2 lines etc.
+Thus, I did NOT copy and paste many times and it did NOT take too long.
+However, when I paste it, the Dev-C++ spends several minutes to paste.)

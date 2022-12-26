@@ -1,0 +1,9 @@
+I came up with idea right now when I took a shower.
+But I don't know the idea is possible at present.
+
+--------------------------------------
+(1)In Windows 10,
+can an infection from a virus prevent other infection of virus?
+
+(2)In Windows 10, 
+can an infection from a virus set the BIOS settings during power off.

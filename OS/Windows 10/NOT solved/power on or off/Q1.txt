@@ -4,3 +4,7 @@ But I don't know the idea is possible at present.
 --------------------------------------
 (1)In Windows 10,
 can OS automatically open when power on?
+
+P.S.:
+Solved.
+More details on the article

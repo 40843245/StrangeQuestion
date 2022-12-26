@@ -7,4 +7,6 @@ can OS automatically open when power on?
 
 P.S.:
 Solved.
-More details on the article
+More details on the article in Github
+Link:
+https://github.com/40843245/Windows10_Settings/tree/main/Advance%20Settings/Operation/Power%20on%20or%20off
